@@ -1,0 +1,47 @@
+.padding{
+    padding: 3px;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    background-color: rgb(219, 250, 244); 
+    font-size: 45px !important;
+    color: rgb(26, 26, 85) !important;
+    border-radius: 50px;
+}
+.btn_font{
+    font-size: 30px;
+}
+body{
+    background-color: azure;
+    overflow: hidden;
+}
+
+.container{
+    padding: 30px;
+    height: 520px;
+    width: 70% !important;
+    border: 1px solid rgb(142, 140, 140);
+    margin-top: 50px;
+    background: rgb(218, 245, 235); 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    border: none;
+   
+}
+.form-control{
+    padding: 5px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    height: 55px !important;
+}
+
+.btn-block{
+    font-size: 20px !important;
+    height: 75px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px !important;
+}
+
+
+
